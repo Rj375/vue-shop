@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+
+.img-wrapp{
+    position: relative;
+  }
+  .img-wrapp span.delete-img{
+      position: absolute;
+      top: -14px;
+      left: -2px;
+  }
+  .img-wrapp span.delete-img:hover{
+    cursor: pointer;
+  }
